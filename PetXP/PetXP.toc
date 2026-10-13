@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: PetXP
+## Notes: Hunter pet XP bar with a settings window. Type /petxp to open it.
+## Author: Micon
+## Version: 1.40
+## SavedVariables: PetXP_HideAtMax, PetXP_VerticalMode, PetXP_ShowText, PetXP_Position
+
+PetXP.lua
